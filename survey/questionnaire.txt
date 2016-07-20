@@ -1,0 +1,12 @@
+Question No; Question
+Q1;I could use KataKita from mobile phone so I can annotate anytime and anywhere.
+Q2;When I use KataKita, I need to wait couple of minutes until all the tokens were loaded on the screen.
+Q3;KataKita annotation guideline is easy to understand.
+Q4;I think KataKita is too complicated.
+Q5;I think KataKIta is easy to use.
+Q6;I think I need technical support to use KataKita
+Q7;I imagine that most of KataKita users could learn to use KataKita quickly
+Q8;I think KataKita is impractical to use
+Q9;I feel very confident when doing the annotation using KataKita.
+Q10;I must learn a lot of things before using KataKita.
+
